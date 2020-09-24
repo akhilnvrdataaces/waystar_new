@@ -1,6 +1,7 @@
 view: kishor_aspcheck_test {
   sql_table_name: {% parameter table_name %} ;;
 
+# testing whether can we update from other branches
   parameter: table_name {
     type: unquoted
 #    default_value: "dbo.kishor_aspcheck_test"
