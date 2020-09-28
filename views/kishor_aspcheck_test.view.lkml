@@ -3,7 +3,7 @@ view: kishor_aspcheck_test {
 
 # testing whether can we update from other branches
   parameter: table_name {
-    type: string
+    type: unquoted
 #    default_value: "dbo.kishor_aspcheck_test"
   }
 
