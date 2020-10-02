@@ -8,7 +8,7 @@ datagroup: test_akhil_default_datagroup {
   max_cache_age: "1 hour"
 }
 
-persist_with: test-akhil_default_datagroup
+persist_with: test_akhil_default_datagroup
 
 
 
